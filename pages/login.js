@@ -86,14 +86,10 @@ export default function LoginScreen() {
         <div className="mb-4 ">
           Don&apos;t have an account? &nbsp;
           <Link href={`/register?redirect=${redirect || '/'}`}>Register</Link>
-         
           <div>
-Are you a guest? 
-<div>mail:user@example.com,
-pass:123456 </div>
-
-</div>
-
+            Are you a guest?
+            <div>mail:user@example.com, pass:123456 </div>
+          </div>
         </div>
       </form>
     </Layout>
