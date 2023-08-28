@@ -2,9 +2,9 @@
 
 
 ### Live link
-https://hear-hub-a-ecommerce-website.vercel.app/
+
 ### video presentation
-https://www.youtube.com/watch?v=60gCqvXCHtg
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -17,7 +17,7 @@ https://www.youtube.com/watch?v=60gCqvXCHtg
   <h3 align="center">TechTrek</h3>
 
   <p align="center">
-  Best Place to buy your headphones!
+  Best Place to buy your Computer accesories!
     <br />
     
     
@@ -56,11 +56,11 @@ https://www.youtube.com/watch?v=60gCqvXCHtg
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+![Screenshot (296)](https://github.com/Tahsin-Zaman-Jilan/TechTrek-A-computer-parts-selling-shop/assets/77837621/96c0da47-810e-4634-8079-9434b1f42523)
 
-![Capture212](https://user-images.githubusercontent.com/77837621/232425262-1c5ca596-f796-4ea8-9a8c-e43af8b99c6a.PNG)(https://hear-hub-a-ecommerce-website.vercel.app/)
 
 
-TechTrek is an ecommerce headphone site project on GitHub that aims to provide customers with a seamless shopping experience for high-quality headphones and audio accessories. The project is built using modern web technologies such as React, Node.js, and MongoDB, ensuring a robust and scalable architecture.
+TechTrek is an e-commerce headphone site project on GitHub that aims to provide customers with a seamless shopping experience for high-quality computer accessories. The project is built using modern web technologies such as React, Node.js, and MongoDB, ensuring a robust and scalable architecture.
 
 The TechTrek platform features a clean and user-friendly interface that allows customers to easily browse and purchase products. Customers can search for specific products, filter products by various criteria such as price range, brand, and type, and view product details and reviews.
 
