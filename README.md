@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=60gCqvXCHtg
   </a>
 
 
-  <h3 align="center">HearHub</h3>
+  <h3 align="center">TechTrek</h3>
 
   <p align="center">
   Best Place to buy your headphones!
@@ -60,15 +60,15 @@ https://www.youtube.com/watch?v=60gCqvXCHtg
 ![Capture212](https://user-images.githubusercontent.com/77837621/232425262-1c5ca596-f796-4ea8-9a8c-e43af8b99c6a.PNG)(https://hear-hub-a-ecommerce-website.vercel.app/)
 
 
-HearHub is an ecommerce headphone site project on GitHub that aims to provide customers with a seamless shopping experience for high-quality headphones and audio accessories. The project is built using modern web technologies such as React, Node.js, and MongoDB, ensuring a robust and scalable architecture.
+TechTrek is an ecommerce headphone site project on GitHub that aims to provide customers with a seamless shopping experience for high-quality headphones and audio accessories. The project is built using modern web technologies such as React, Node.js, and MongoDB, ensuring a robust and scalable architecture.
 
-The HearHub platform features a clean and user-friendly interface that allows customers to easily browse and purchase products. Customers can search for specific products, filter products by various criteria such as price range, brand, and type, and view product details and reviews.
+The TechTrek platform features a clean and user-friendly interface that allows customers to easily browse and purchase products. Customers can search for specific products, filter products by various criteria such as price range, brand, and type, and view product details and reviews.
 
-To ensure that transactions are safe and secure, HearHub incorporates a secure payment gateway that supports multiple payment methods. The platform also includes a comprehensive order management system that enables administrators to track orders, manage inventory, and handle customer queries.
+To ensure that transactions are safe and secure, TechTrek incorporates a secure payment gateway that supports multiple payment methods. The platform also includes a comprehensive order management system that enables administrators to track orders, manage inventory, and handle customer queries.
 
-HearHub's design prioritizes the user's experience by implementing a responsive design, meaning the site adapts to different screen sizes to enhance accessibility. Additionally, the site implements accessibility features to ensure everyone, regardless of abilities or disabilities, can access the site with ease.
+TechTrek's design prioritizes the user's experience by implementing a responsive design, meaning the site adapts to different screen sizes to enhance accessibility. Additionally, the site implements accessibility features to ensure everyone, regardless of abilities or disabilities, can access the site with ease.
 
-Overall, HearHub aims to provide customers with a convenient and reliable online shopping experience for high-quality headphones and audio accessories.
+Overall, TechTrek aims to provide customers with a convenient and reliable online shopping experience for high-quality headphones and audio accessories.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -96,8 +96,8 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 
 ```
-$ git clone https://github.com/Tahsin-Zaman-Jilan/HearHub-A-Ecommerce-Website
-$ cd HearHub-A-Ecommerce-Website
+$ git clone https://github.com/Tahsin-Zaman-Jilan/TechTrek-A-Ecommerce-Website
+$ cd TechTrek-A-Ecommerce-Website
 $ npm install
 $ npm run dev
 $ Open http://localhost:3000/api/seed
